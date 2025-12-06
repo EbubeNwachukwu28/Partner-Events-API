@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zgz3OfLjgjo=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Partner Events API\\PartnerEventsApi\\PartnerEventsApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ebube\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\ebube\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
