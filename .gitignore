@@ -1,0 +1,12 @@
+# .NET build artifacts
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Test results
+TestResults/
+
+# Coverage
+coverage/
